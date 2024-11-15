@@ -1,6 +1,4 @@
 "use client";
-import Image from "next/image";
-
 export default function Footer() {
   return (
     <footer className="font-sans tracking-wide bg-black px-8 py-12">
