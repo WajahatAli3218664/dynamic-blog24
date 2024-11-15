@@ -6,8 +6,8 @@ import Footer from "@/components/footer";
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Agriswara | Home",
-  description: "This is a blog website for Agriculture and technology",
+  title: "TalentPulse Ai| Home",
+  description: "This is a blog website exploring the transformative role of AI in Human Resources and workforce management",
 };
 
 export default function RootLayou({
